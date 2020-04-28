@@ -940,7 +940,7 @@ crypto-browserify@^3.11.0:
 
 css-loader@^3.5.3:
   version "3.5.3"
-  resolved "https://registry.npm.taobao.org/css-loader/download/css-loader-3.5.3.tgz#95ac16468e1adcd95c844729e0bb167639eb0bcf"
+  resolved "https://registry.npm.taobao.org/css-loader/download/css-loader-3.5.3.tgz?cache=0&sync_timestamp=1587729889304&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fcss-loader%2Fdownload%2Fcss-loader-3.5.3.tgz#95ac16468e1adcd95c844729e0bb167639eb0bcf"
   integrity sha1-lawWRo4a3NlchEcp4LsWdjnrC88=
   dependencies:
     camelcase "^5.3.1"
@@ -1837,7 +1837,7 @@ html-minifier-terser@^5.0.1:
 
 html-webpack-plugin@^4.2.0:
   version "4.2.0"
-  resolved "https://registry.npm.taobao.org/html-webpack-plugin/download/html-webpack-plugin-4.2.0.tgz?cache=0&sync_timestamp=1586450111527&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fhtml-webpack-plugin%2Fdownload%2Fhtml-webpack-plugin-4.2.0.tgz#ea46f15b620d4c1c8c73ea399395c81208e9f823"
+  resolved "https://registry.npm.taobao.org/html-webpack-plugin/download/html-webpack-plugin-4.2.0.tgz?cache=0&sync_timestamp=1586450065368&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fhtml-webpack-plugin%2Fdownload%2Fhtml-webpack-plugin-4.2.0.tgz#ea46f15b620d4c1c8c73ea399395c81208e9f823"
   integrity sha1-6kbxW2INTByMc+o5k5XIEgjp+CM=
   dependencies:
     "@types/html-minifier-terser" "^5.0.0"
@@ -3846,7 +3846,7 @@ strip-eof@^1.0.0:
 
 style-loader@^1.2.0:
   version "1.2.0"
-  resolved "https://registry.npm.taobao.org/style-loader/download/style-loader-1.2.0.tgz#f78e4d49caf5018f7c03ae1886e1270124feeb0a"
+  resolved "https://registry.npm.taobao.org/style-loader/download/style-loader-1.2.0.tgz?cache=0&sync_timestamp=1587731556074&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fstyle-loader%2Fdownload%2Fstyle-loader-1.2.0.tgz#f78e4d49caf5018f7c03ae1886e1270124feeb0a"
   integrity sha1-945NScr1AY98A64YhuEnAST+6wo=
   dependencies:
     loader-utils "^2.0.0"
