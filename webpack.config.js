@@ -15,6 +15,7 @@ module.exports = {
 
   module: {
     rules: [
+      ...base.module.rules, //把base里面的module.rules拷贝过来，再加下面的内容
       {
         test: /\.css$/i, //如果发现了任何以.css结尾的文件名，就用"css-loader"把.css文件读到js里面，"style-loader"把style标签放到html里面。
 

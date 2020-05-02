@@ -1,3 +1,5 @@
-import css from "./x.css";
-console.log(css);
+import "./x.scss";
+import "./y.less";
+import "./z.styl";
+
 export default "xxx";
